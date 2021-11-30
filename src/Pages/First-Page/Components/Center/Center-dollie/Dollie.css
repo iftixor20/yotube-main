@@ -1,0 +1,25 @@
+.user-name {
+  height: 33px;
+  left: 16.93%;
+  right: 76.04%;
+  top: calc(50% - 33px / 2 - 460.5px);
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 33px;
+  color: #ffffff;
+}
+
+.video-name {
+  width: 205px;
+  left: 13.28%;
+  right: 76.04%;
+  top: calc(50% - 20px / 2 - 236px);
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+}

@@ -1,0 +1,194 @@
+.navlink {
+  height: 20px;
+  left: 3.39%;
+  right: 91.41%;
+  top: calc(50% - 20px / 2 - 379px);
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  display: flex;
+  align-items: center;
+}
+
+.navlink:hover {
+  height: 20px;
+  left: 3.39%;
+  right: 94.27%;
+  top: calc(50% - 20px / 2 - 476px);
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ff0000;
+  fill: red;
+}
+
+.home-navlik::before {
+  content: "";
+  display: inline-block;
+  background-image: url("../../../../Assets/Images/home-logo.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+  color: #ffffff;
+}
+.trending-navlik::before {
+  content: "";
+  display: inline-block;
+  background-image: url("../../../../Assets/Images/trending.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+  color: #ffffff;
+}
+.subscriptions-navlik::before {
+  content: "";
+  display: inline-block;
+  background-image: url("../../../../Assets/Images/subscriptions.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+  color: #ffffff;
+}
+.library-navlik::before {
+  content: "";
+  display: inline-block;
+  background-image: url("../../../../Assets/Images/library.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+  color: #ffffff;
+}
+.history-navlik::before {
+  content: "";
+  display: inline-block;
+  background-image: url("../../../../Assets/Images/history.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+  color: #ffffff;
+}
+.watch-navlik::before {
+  content: "";
+  display: inline-block;
+  background-image: url("../../../../Assets/Images/watch-later.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+  color: #ffffff;
+}
+.favourites-navlik::before {
+  content: "";
+  display: inline-block;
+  background-image: url("../../../../Assets/Images/favourites.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+  color: #ffffff;
+}
+.liked-navlik::before {
+  content: "";
+  display: inline-block;
+  background-image: url("../../../../Assets/Images/liked-videos.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+  color: #ffffff;
+}
+.music-navlik::before {
+  content: "";
+  display: inline-block;
+  background-image: url("../../../../Assets/Images/music.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+  color: #ffffff;
+}
+.games-navlik::before {
+  content: "";
+  display: inline-block;
+  background-image: url("../../../../Assets/Images/games.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+  color: #ffffff;
+}
+.show-navlik::before {
+  content: "";
+  display: inline-block;
+  background-image: url("../../../../Assets/Images/show-more.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+  color: #ffffff;
+}
+
+.subscriptors {
+  height: 20px;
+  left: 3.44%;
+  right: 92.34%;
+  top: calc(50% - 20px / 2 + 423px);
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+}
+
+.setting {
+  height: 20px;
+  left: 3.39%;
+  right: 93.85%;
+  top: calc(50% - 20px / 2 + 550px);
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #c2c2c2;
+  display: flex;
+  align-items: center;
+}
+
+.setting::before {
+  content: "";
+  display: inline-block;
+  background-image: url("../../../../Assets/Images/setting.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+  color: #ffffff;
+  margin-right: 12px;
+}
